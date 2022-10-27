@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [TonyHawkSkateSimulator](https://github.com/mehdiben7/TonyHawkSkateSimulator)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mehdiben7?tab=repositories&q=&type=public&language=&sort=](https://github.com/mehdiben7?tab=repositories&q=&type=public&language=&sort=)
+- 👨‍💻 All of my projects are available at [https://github.com/mehdiben7?tab=repositories](https://github.com/mehdiben7?tab=repositories)
 
 - 💬 Ask me about **Java**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mehdi-benouhoud/](https://www.linkedin.com/in/mehdi-benouhoud/)
 
-- ⚡ Fun fact **When I was a teenager, I participated in a tv-show on French-Canadian public TV**
+- ⚡ Fun fact **When I was a teenager, I participated in a TV-show on French-Canadian public TV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
