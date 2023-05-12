@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Solid Vault](https://github.com/TJusab/solid-vault)
 
-- 🌱 I’m currently learning **Spring & SQL**
+- 🌱 I’m currently learning **GitLab pipelines & Kubernetes**
 
 - 👯 I’m looking to collaborate on [Snell's Law Simulator](https://github.com/mehdiben7/SnellsLawSimulator)
 
