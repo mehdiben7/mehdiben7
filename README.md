@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehdi Benouhoud</h1>
 <h3 align="center">A software engineering student at Polytechnique Montreal</h3>
 
-- 🔭 I’m currently working on [Solid Vault](https://github.com/TJusab/solid-vault)
-
-- 🌱 I’m currently learning **GitLab pipelines & Kubernetes**
-
-- 👯 I’m looking to collaborate on [Snell's Law Simulator](https://github.com/mehdiben7/SnellsLawSimulator)
-
-- 🤝 I’m looking for help with [TonyHawkSkateSimulator](https://github.com/mehdiben7/TonyHawkSkateSimulator)
-
-- 👨‍💻 All of my projects are available at [github.com/mehdiben7?tab=repositories](https://github.com/mehdiben7?tab=repositories)
-
-- 💬 Ask me about **Java, HTML/CSS/JS**
-
 - 📫 How to reach me **mehdi.benouhoud7@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mehdi-benouhoud/](https://www.linkedin.com/in/mehdi-benouhoud/)
